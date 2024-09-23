@@ -5,4 +5,4 @@ Shopping List:
 - Apples
 - Bananas
 - Donuts
-- Eggs
+- Froot Loops
